@@ -1,7 +1,8 @@
 # Checkbox tree
 
-Checkbox tree without dependencies. On Vue + Typescript
-
+Custom checkbox tree without dependencies. On Vue + Typescript
+Contain indeterminate state.
+https://www.thndr.ru/ostest/
 
 ## Project setup
 ```
